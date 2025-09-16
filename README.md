@@ -30,10 +30,6 @@ This project analyzes **customer reviews and marketing performance** to identify
 
 ---
 
-## 🧩 Project Structure  
-
----
-
 ## ⚡ Optimizations  
 - Enhanced sentiment analysis by combining **ratings + text polarity** for more accurate categorization.  
 - Introduced **sentiment buckets** to group customers into clear satisfaction ranges.  
@@ -49,6 +45,8 @@ This project analyzes **customer reviews and marketing performance** to identify
 ---
 
 📊 Explore the analysis:  
-- [Python Sentiment Analysis Script]([sentiment analysis.py](sentiment analysis.py)  
+- [Python Sentiment Analysis Script](sentiment_analysis.py)  
 - [Marketing Analytics Dashboard (Power BI)](Marketing_Analytics.pbix)  
-- [Performance Review & Strategic Action Plan PDF]([Performance Review & Strategic Action Plan.pdf](https://github.com/gagandeep-singh9/Conversion-Compass-Marketing-Analytics/blob/6a0c0e130adb87e51afbd201c3007158955e409d/Performance%20Review%20%26%20Strategic%20Action%20Plan.pdf))  
+- [Performance Review & Strategic Action Plan PDF](Performance%20Review%20%26%20Strategic%20Action%20Plan.pdf)
+
+
